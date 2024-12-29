@@ -21,22 +21,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
-
+Adimplencia 60 90
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Macro para facilitar o trabalho de reversão da inadimplência 60 90
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+raft
+OpenAI
+mdclone
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+O conteúdo foi criado com base nos relatórios disponbilizados com a base da inadimplência, consulta as contas dos clientes e verificação do saldo.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+Os resultados apresentados, melhoraram a reversão da inadimplência em 20%.
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Desafio extremamente interessante, ampliando os conhecinmentos de IA no mundo atual.
 
 ### Exemplos e Insigths
 
